@@ -23,7 +23,7 @@ import java.util.Scanner;
  */
 public class AsyncHttpURLConnection {
   private static final int HTTP_TIMEOUT_MS = 8000;
-  private static final String HTTP_ORIGIN = "https://appr.tc";
+  private static final String HTTP_ORIGIN = "chat.zersey.com";
   private final String method;
   private final String url;
   private final String message;

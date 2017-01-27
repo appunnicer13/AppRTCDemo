@@ -43,11 +43,11 @@
 
         <data
             android:scheme="https"
-            android:host="appr.tc"
+            android:host="chat.zersey.com:9154"
             />
         <data
             android:scheme="http"
-            android:host="appr.tc"
+            android:host="chat.zersey.com:9154"
             />
       </intent-filter>
     </activity>

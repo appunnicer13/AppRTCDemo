@@ -748,6 +748,7 @@ public class PeerConnectionClient {
         // Drain the queued remote candidates if there is any so that
         // they are processed in the proper order.
         drainCandidates();
+
         peerConnection.removeIceCandidates(candidates);
       }
     });
